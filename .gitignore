@@ -1,0 +1,5 @@
+node_modules/
+fixtures/
+.replay-cache/
+.scratch/
+package-lock.json

@@ -1,0 +1,6 @@
+{
+  "$comment": "One entry per Minecraft version: the release asset holding its fixture, its sha256, and the recorder revision that produced it. `npm run fixtures` downloads and verifies these into fixtures/.",
+  "schema": 1,
+  "release": null,
+  "fixtures": {}
+}
